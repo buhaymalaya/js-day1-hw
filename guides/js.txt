@@ -1,0 +1,31 @@
+data types
+math operators
+syntax
+look through lens of python
+
+language fundamentals day 1-2
+
+day 3 - DOM (html doc) manipulation of pages
+
+Vanilla JS (plain)
+
+Thurs - create a page with functioning JS
+
+week 8 - typscript (superset of JS) (think bumper bowling of JS)
+
+week 9-10 - REACT
+
+Compiled (think Amazon webpage) - NO SPACES when computer reads it = one massive block of text
+
+vs 
+
+Interpreted (Python- reads top down)
+
+Inspect - Console
+
+console.log("hello world)
+
+x=10
+console.log(x+50)
+output = 60
+
